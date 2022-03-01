@@ -1,0 +1,17 @@
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.deps.json
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.runtimeconfig.json
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.dll
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\ref\CleanArchitecture.Data.dll
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\GItHub\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfo.cs
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CopyComplete
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.dll
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\GItHub\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache

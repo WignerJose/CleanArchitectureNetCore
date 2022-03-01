@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f995987b-8e66-4f68-9473-48cf35b0aa35": {
+      "ProjectGuid": "f995987b-8e66-4f68-9473-48cf35b0aa35",
+      "DisplayName": "CleanArchitecture",
+      "ColorIndex": 0
+    },
+    "8f6163f7-784d-4f53-bb87-43cce9029751": {
+      "ProjectGuid": "8f6163f7-784d-4f53-bb87-43cce9029751",
+      "DisplayName": "CleanArchitecture.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "e4bf6dd8-bba4-4f03-9642-bd50a3fb1704": {
+      "ProjectGuid": "e4bf6dd8-bba4-4f03-9642-bd50a3fb1704",
+      "DisplayName": "CleanArchitecture.Infrastructure",
+      "ColorIndex": 2
+    },
+    "ffe43be7-5cfa-4abb-857b-f02b3d0685f0": {
+      "ProjectGuid": "ffe43be7-5cfa-4abb-857b-f02b3d0685f0",
+      "DisplayName": "CleanArchitecture.Domain",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "7101f75a-b379-405f-a6e9-6ec7293369bd": {
+      "ProjectGuid": "7101f75a-b379-405f-a6e9-6ec7293369bd",
+      "DisplayName": "CleanArchitecture.Api",
+      "ColorIndex": 4
+    },
+    "f10dbf16-44b5-4857-89c3-da1e164690b2": {
+      "ProjectGuid": "f10dbf16-44b5-4857-89c3-da1e164690b2",
+      "DisplayName": "CleanArchitecture.Aplication",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
