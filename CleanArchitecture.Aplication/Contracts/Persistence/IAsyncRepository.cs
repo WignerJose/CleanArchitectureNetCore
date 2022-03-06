@@ -14,16 +14,16 @@ namespace CleanArchitecture.Aplication.Contracts.Persistence
         Task<IReadOnlyList<T>> GetAsync(Expression<Func<T, bool>> predicate);
 
         Task<IReadOnlyList<T>> GetAsync(Expression<Func<T,bool>> predicate = null
-                                        ,Func<IQueryable<T>> orderBy = null
+                                        ,Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null
                                         ,string includeString = null
                                         ,bool disableTracking = true);
         Task<IReadOnlyList<T>> GetAsync(Expression<Func<T, bool>> predicate = null
-                                , Func<IQueryable<T>> orderBy = null
+                                , Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null
                                 , List<Expression<Func<T, object>>> includeString = null
                                 , bool disableTracking = true);
         Task<T> GetByIdAsync(int id);
         Task<T> AddAsync(T entity);
         Task<T> UpdateAsync(T entity);
-        Task<T> DeleteAsync(T entity);
+        Task DeleteAsync(T entity);
     }
 }

@@ -2,7 +2,7 @@
 
 namespace CleanArchitecture.Aplication.Exceptions
 {
-    public class ValidationException: ApplicationException
+    public class ValidationException : ApplicationException
     {
         public IDictionary<string, string[]> Erros { get; set; }
 

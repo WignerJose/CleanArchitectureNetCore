@@ -9,4 +9,3 @@ D:\GItHub\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csp
 D:\GItHub\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
 D:\GItHub\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
 D:\GItHub\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
-D:\GItHub\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
